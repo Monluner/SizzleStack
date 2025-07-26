@@ -8,8 +8,7 @@ Features of the website:
 
   Chef Profiles & Community – Follow chefs, leave reviews, and build your cooking journey.
 
- Tech Stack<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/93d1375c-ee31-4999-b85f-d3a27318c816" />
-
+-----------------------------------------------------------------------------------------------
 Built with:
 
 Frontend: HTML / CSS / JavaScript
