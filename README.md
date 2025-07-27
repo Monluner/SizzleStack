@@ -11,15 +11,17 @@ Features of the website:
 -----------------------------------------------------------------------------------------------
 Built with:
 
-Frontend: HTML / CSS / JavaScript
+Frontend: HTML / CSS
 
-Backend: -----
+Backend: JavaScript (JS) and Python for API integration
 
 Frameworks & Libraries: React (if possible for future expansion)
 
-APIs & Databases: ----
+APIs & Databases: (* No databases present) , Edamam
 
-Screenshots (2)
+Screenshots (1)
+<img width="1877" height="821" alt="image" src="https://github.com/user-attachments/assets/bb702b24-14f8-4201-ac63-d7e8029f5d94" />
+
 
 
 Installation for the website in-order to local host
